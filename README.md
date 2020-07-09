@@ -23,5 +23,5 @@ Front end control library
 Other
 
 - Communication protocols: Remoting, WebService, TCP/IP, UDP, HTTP, FTP, ICE, DDS, KENT, ENet, Software Bus, Event Bus, etc.
-- Development tools: Visual Studio, QT creator, visual studio code, etc.
-- Database: MySQL, Oracle, sqlserver, SQLite, access, redis, etc.
+- Development tools: Visual Studio, QT Creator, Visual Studio Code, etc.
+- Database: MySQL, Oracle, SqlServer, SQLite, Access, Redis, etc.
