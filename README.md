@@ -1,16 +1,27 @@
-### Hi there 👋
+English | [简体中文](./README-zh_CN.md)
 
-<!--
-**dotnet9/dotnet9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Dotnet9, and I run a blog site: https://dotnet9.com .
 
-Here are some ideas to get you started:
+I have been engaged in dotnet development for nearly 10 years. The purpose of building this Dotnet9 website is to share technical articles based on dotnet. I hope to exchange technology with more programmers on this platform, and wish the dotnet community development better and better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Personal technology stack
+
+- C/S：C# + WPF\Winform，C++ + Qt Widgets
+- B/S: React + ASP.NET Core Web API
+- Mobile app： C# + Xamarin.Forms
+
+Development framework
+
+- C/S：Smart Client、Prism 4.0\5.0、Qt Plugin System、CTK Plugin
+- B/S: front end is Ant Design Pro 3.X|4.X, back end is ABP vNext
+
+Front end control library
+
+- C/S: Dev Express, Telerik, some open source control libraries, etc
+- B/S: Ant Design, Element UI, etc
+
+Other
+
+- Communication protocols: Remoting, WebService, TCP/IP, UDP, HTTP, FTP, ICE, DDS, KENT, ENet, Software Bus, Event Bus, etc.
+- Development tools: Visual Studio, QT creator, visual studio code, etc.
+- Database: MySQL, Oracle, sqlserver, SQLite, access, redis, etc.
