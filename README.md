@@ -1,4 +1,4 @@
-English | [简体中文](./README-zh_CN.md)
+English | [简体中文](https://github.com/dotnet9/dotnet9/blob/master/README-zh_CN.md)
 
 Hello, I'm Dotnet9, and I run a blog site: https://dotnet9.com .
 
